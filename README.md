@@ -1,6 +1,6 @@
 # Nicknames validation via regex
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/au7tu7dnujtguo67?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-destructuring)
+[![Build status](https://ci.appveyor.com/api/projects/status/xhkayb68ne19xmh4?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-regex-phones)
 
 ### Описание
 
